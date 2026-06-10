@@ -219,121 +219,131 @@ Each batch = **1 subject, 2–3 atomic topics**. Order is exam-weight × depende
 
 ---
 
-### Batch 17
+### Batch 17 ✅
 - **Subject:** Compiler Design
 - **Topics:**
   1. Lexical Analysis & Parsing (LL, LR)
   2. Syntax-Directed Translation & Intermediate Code
 - **Files:**
-  1. [07_compiler_design/lexical_parsing.md](07_compiler_design/lexical_parsing.md)
-  2. [07_compiler_design/sdt_intermediate_code.md](07_compiler_design/sdt_intermediate_code.md)
-- **Status:** Pending
+  1. [07_compiler_design/lexical_parsing.md](07_compiler_design/lexical_parsing.md) ✅
+  2. [07_compiler_design/sdt_intermediate_code.md](07_compiler_design/sdt_intermediate_code.md) ✅
+- **Topic Test:** [_tests/topic_tests/compilers_test_17.md](_tests/topic_tests/compilers_test_17.md) ✅
+- **Status:** **Done**
 
-### Batch 18
+### Batch 18 ✅
 - **Subject:** Compiler Design
 - **Topics:**
   1. Runtime Environment & Code Generation
   2. Code Optimization & Data-Flow Analysis
 - **Files:**
-  1. [07_compiler_design/runtime_codegen.md](07_compiler_design/runtime_codegen.md)
-  2. [07_compiler_design/code_optimization_dataflow.md](07_compiler_design/code_optimization_dataflow.md)
-- **Status:** Pending
+  1. [07_compiler_design/runtime_codegen.md](07_compiler_design/runtime_codegen.md) ✅
+  2. [07_compiler_design/code_optimization_dataflow.md](07_compiler_design/code_optimization_dataflow.md) ✅
+- **Topic Test:** [_tests/topic_tests/compilers_test_18.md](_tests/topic_tests/compilers_test_18.md) ✅
+- **Status:** **Done**
 
 ---
 
-### Batch 19
+### Batch 19 ✅
 - **Subject:** Operating Systems
 - **Topics:**
   1. Processes, Threads & CPU Scheduling
   2. Synchronization & Deadlocks
 - **Files:**
-  1. [08_operating_systems/processes_threads_scheduling.md](08_operating_systems/processes_threads_scheduling.md)
-  2. [08_operating_systems/synchronization_deadlocks.md](08_operating_systems/synchronization_deadlocks.md)
-- **Status:** Pending
+  1. [08_operating_systems/processes_threads_scheduling.md](08_operating_systems/processes_threads_scheduling.md) ✅
+  2. [08_operating_systems/synchronization_deadlocks.md](08_operating_systems/synchronization_deadlocks.md) ✅
+- **Topic Test:** [_tests/topic_tests/os_test_19.md](_tests/topic_tests/os_test_19.md) ✅
+- **Status:** **Done**
 
-### Batch 20
+### Batch 20 ✅
 - **Subject:** Operating Systems
 - **Topics:**
   1. Memory Management & Virtual Memory
   2. File Systems & Disk Scheduling
   3. I/O Systems & Protection
 - **Files:**
-  1. [08_operating_systems/memory_management.md](08_operating_systems/memory_management.md)
-  2. [08_operating_systems/file_systems_disk.md](08_operating_systems/file_systems_disk.md)
-  3. [08_operating_systems/io_protection.md](08_operating_systems/io_protection.md)
-- **Status:** Pending
+  1. [08_operating_systems/memory_management.md](08_operating_systems/memory_management.md) ✅
+  2. [08_operating_systems/file_systems_disk.md](08_operating_systems/file_systems_disk.md) ✅
+  3. [08_operating_systems/io_protection.md](08_operating_systems/io_protection.md) ✅
+- **Topic Test:** [_tests/topic_tests/os_test_20.md](_tests/topic_tests/os_test_20.md) ✅
+- **Status:** **Done**
 
 ---
 
-### Batch 21
+### Batch 21 ✅
 - **Subject:** Databases
 - **Topics:**
   1. ER Model & Relational Model
   2. SQL & Relational Algebra
 - **Files:**
-  1. [09_databases/er_relational_model.md](09_databases/er_relational_model.md)
-  2. [09_databases/sql_relational_algebra.md](09_databases/sql_relational_algebra.md)
-- **Status:** Pending
+  1. [09_databases/er_relational_model.md](09_databases/er_relational_model.md) ✅
+  2. [09_databases/sql_relational_algebra.md](09_databases/sql_relational_algebra.md) ✅
+- **Topic Test:** [_tests/topic_tests/dbms_test_21.md](_tests/topic_tests/dbms_test_21.md) ✅
+- **Status:** **Done**
 
-### Batch 22
+### Batch 22 ✅
 - **Subject:** Databases
 - **Topics:**
   1. Functional Dependencies & Normalization
   2. Transactions, Concurrency & Recovery
   3. File Organization & Indexing (B/B+ Trees)
 - **Files:**
-  1. [09_databases/normalization.md](09_databases/normalization.md)
-  2. [09_databases/transactions_concurrency.md](09_databases/transactions_concurrency.md)
-  3. [09_databases/indexing_b_trees.md](09_databases/indexing_b_trees.md)
-- **Status:** Pending
+  1. [09_databases/normalization.md](09_databases/normalization.md) ✅
+  2. [09_databases/transactions_concurrency.md](09_databases/transactions_concurrency.md) ✅
+  3. [09_databases/indexing_b_trees.md](09_databases/indexing_b_trees.md) ✅
+- **Topic Test:** [_tests/topic_tests/dbms_test_22.md](_tests/topic_tests/dbms_test_22.md) ✅
+- **Status:** **Done**
 
 ---
 
-### Batch 23
+### Batch 23 ✅
 - **Subject:** Computer Networks
 - **Topics:**
   1. Layered Model, Physical & Data Link Layer
   2. LAN Technologies, Switching & MAC
 - **Files:**
-  1. [10_computer_networks/layers_physical_datalink.md](10_computer_networks/layers_physical_datalink.md)
-  2. [10_computer_networks/lan_switching_mac.md](10_computer_networks/lan_switching_mac.md)
-- **Status:** Pending
+  1. [10_computer_networks/layers_physical_datalink.md](10_computer_networks/layers_physical_datalink.md) ✅
+  2. [10_computer_networks/lan_switching_mac.md](10_computer_networks/lan_switching_mac.md) ✅
+- **Topic Test:** [_tests/topic_tests/networks_test_23.md](_tests/topic_tests/networks_test_23.md) ✅
+- **Status:** **Done**
 
-### Batch 24
+### Batch 24 ✅
 - **Subject:** Computer Networks
 - **Topics:**
   1. Network Layer (IPv4, Routing, ICMP, NAT)
   2. Transport Layer (TCP, UDP, Congestion)
   3. Application Layer & Network Security Basics
 - **Files:**
-  1. [10_computer_networks/network_layer.md](10_computer_networks/network_layer.md)
-  2. [10_computer_networks/transport_layer.md](10_computer_networks/transport_layer.md)
-  3. [10_computer_networks/application_security.md](10_computer_networks/application_security.md)
-- **Status:** Pending
+  1. [10_computer_networks/network_layer.md](10_computer_networks/network_layer.md) ✅
+  2. [10_computer_networks/transport_layer.md](10_computer_networks/transport_layer.md) ✅
+  3. [10_computer_networks/application_security.md](10_computer_networks/application_security.md) ✅
+- **Topic Test:** [_tests/topic_tests/networks_test_24.md](_tests/topic_tests/networks_test_24.md) ✅
+- **Status:** **Done**
 
 ---
 
-### Batch 25
+### Batch 25 ✅
 - **Subject:** General Aptitude — Quantitative
 - **Topics:**
   1. Numerical Computation, Ratios & Percentages
   2. Algebra, Series & Mensuration
   3. Data Interpretation & Graphs
 - **Files:**
-  1. [11_general_aptitude/quantitative_aptitude/numerical_ratios_percentages.md](11_general_aptitude/quantitative_aptitude/numerical_ratios_percentages.md)
-  2. [11_general_aptitude/quantitative_aptitude/algebra_series_mensuration.md](11_general_aptitude/quantitative_aptitude/algebra_series_mensuration.md)
-  3. [11_general_aptitude/quantitative_aptitude/data_interpretation.md](11_general_aptitude/quantitative_aptitude/data_interpretation.md)
-- **Status:** Pending
+  1. [11_general_aptitude/quantitative_aptitude/numerical_ratios_percentages.md](11_general_aptitude/quantitative_aptitude/numerical_ratios_percentages.md) ✅
+  2. [11_general_aptitude/quantitative_aptitude/algebra_series_mensuration.md](11_general_aptitude/quantitative_aptitude/algebra_series_mensuration.md) ✅
+  3. [11_general_aptitude/quantitative_aptitude/data_interpretation.md](11_general_aptitude/quantitative_aptitude/data_interpretation.md) ✅
+- **Topic Test:** [_tests/topic_tests/aptitude_test_25.md](_tests/topic_tests/aptitude_test_25.md) ✅
+- **Status:** **Done**
 
-### Batch 26
+### Batch 26 ✅
 - **Subject:** General Aptitude — Verbal & Logical
 - **Topics:**
   1. Verbal Aptitude (Grammar, Vocabulary, Comprehension)
   2. Logical Reasoning & Analytical Aptitude
 - **Files:**
-  1. [11_general_aptitude/verbal_aptitude/verbal_aptitude.md](11_general_aptitude/verbal_aptitude/verbal_aptitude.md)
-  2. [11_general_aptitude/logical_reasoning/logical_reasoning.md](11_general_aptitude/logical_reasoning/logical_reasoning.md)
-- **Status:** Pending
+  1. [11_general_aptitude/verbal_aptitude/verbal_aptitude.md](11_general_aptitude/verbal_aptitude/verbal_aptitude.md) ✅
+  2. [11_general_aptitude/logical_reasoning/logical_reasoning.md](11_general_aptitude/logical_reasoning/logical_reasoning.md) ✅
+- **Topic Test:** [_tests/topic_tests/aptitude_test_26.md](_tests/topic_tests/aptitude_test_26.md) ✅
+- **Status:** **Done** 🎉
 
 ---
 
@@ -383,30 +393,30 @@ Each batch = **1 subject, 2–3 atomic topics**. Order is exam-weight × depende
 | 38 | TOC | Pumping Lemma & Closure (Regular) | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
 | 39 | TOC | CFG, PDA & CFL | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
 | 40 | TOC | Turing Machines & Decidability | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
-| 41 | Compilers | Lexical & Parsing | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 42 | Compilers | SDT & Intermediate Code | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 43 | Compilers | Runtime & Code Generation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 44 | Compilers | Code Optimization & Data-Flow | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 45 | OS | Processes, Threads & Scheduling | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 46 | OS | Synchronization & Deadlocks | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 47 | OS | Memory Management | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 48 | OS | File Systems & Disk Scheduling | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 49 | OS | I/O & Protection | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 50 | DBMS | ER & Relational Model | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 51 | DBMS | SQL & Relational Algebra | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 52 | DBMS | Normalization | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 53 | DBMS | Transactions & Concurrency | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 54 | DBMS | Indexing & B/B+ Trees | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 55 | CN | Layers, Physical & Data Link | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 56 | CN | LAN, Switching & MAC | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 57 | CN | Network Layer | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 58 | CN | Transport Layer | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 59 | CN | Application & Security | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 60 | Aptitude | Numerical, Ratios & Percentages | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 61 | Aptitude | Algebra, Series, Mensuration | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 62 | Aptitude | Data Interpretation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 63 | Aptitude | Verbal Aptitude | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
-| 64 | Aptitude | Logical Reasoning | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
+| 41 | Compilers | Lexical & Parsing | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 42 | Compilers | SDT & Intermediate Code | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 43 | Compilers | Runtime & Code Generation | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 44 | Compilers | Code Optimization & Data-Flow | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 45 | OS | Processes, Threads & Scheduling | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 46 | OS | Synchronization & Deadlocks | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 47 | OS | Memory Management | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 48 | OS | File Systems & Disk Scheduling | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 49 | OS | I/O & Protection | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 50 | DBMS | ER & Relational Model | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 51 | DBMS | SQL & Relational Algebra | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 52 | DBMS | Normalization | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 53 | DBMS | Transactions & Concurrency | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 54 | DBMS | Indexing & B/B+ Trees | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 55 | CN | Layers, Physical & Data Link | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 56 | CN | LAN, Switching & MAC | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 57 | CN | Network Layer | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 58 | CN | Transport Layer | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 59 | CN | Application & Security | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 60 | Aptitude | Numerical, Ratios & Percentages | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 61 | Aptitude | Algebra, Series, Mensuration | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 62 | Aptitude | Data Interpretation | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 63 | Aptitude | Verbal Aptitude | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
+| 64 | Aptitude | Logical Reasoning | ✅ | ✅ | ✅ | ✅ | ✅ | **Done** |
 
 ---
 
@@ -420,12 +430,12 @@ Each batch = **1 subject, 2–3 atomic topics**. Order is exam-weight × depende
 | PDS | 5 | 5 | 100% |
 | Algorithms | 7 | 7 | 100% |
 | TOC | 4 | 4 | 100% |
-| Compilers | 4 | 0 | 0% |
-| OS | 5 | 0 | 0% |
-| DBMS | 5 | 0 | 0% |
-| Computer Networks | 5 | 0 | 0% |
-| General Aptitude | 5 | 0 | 0% |
-| **Total** | **64** | **40** | **63%** |
+| Compilers | 4 | 4 | 100% |
+| OS | 5 | 5 | 100% |
+| DBMS | 5 | 5 | 100% |
+| Computer Networks | 5 | 5 | 100% |
+| General Aptitude | 5 | 5 | 100% |
+| **Total** | **64** | **64** | **100%** 🎉 |
 
 ---
 
